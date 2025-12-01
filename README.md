@@ -72,3 +72,6 @@ Analyze sales and profit trends
 Create clear and insightful visual reports
 
 Extract meaningful business insights from data
+
+Author
+Khaled Lotfy
