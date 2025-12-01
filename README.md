@@ -58,7 +58,6 @@ Product-level profitability comparison
 Project Files
 
 - `Report by power bi.pbix` : Main Power BI report file
-- `Create Report by power bi.pbix` : Another version of the Power BI report
 - `Screenshot 2025-11-29 021115.png` : Screenshot of the first report
 - `Screenshot 2025-11-29 021154.png` : Screenshot of the second report
 
