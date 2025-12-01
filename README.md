@@ -73,5 +73,5 @@ Create clear and insightful visual reports
 
 Extract meaningful business insights from data
 
-Author
+Author:
 Khaled Lotfy
